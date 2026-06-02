@@ -39,6 +39,11 @@ author_profile: true
   </div>
 
 
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
+  
     <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
       Light-dependent switching of circling handedness in microswimmer navigation
