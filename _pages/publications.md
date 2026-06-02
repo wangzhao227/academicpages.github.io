@@ -40,8 +40,6 @@ author_profile: true
 
 </div>
 
-</div>
-
 <hr style="margin: 2em 0;">
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
