@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -17,21 +17,22 @@ author_profile: true
     </h3>
 
     <p>
-      <strong>Z. Wang</strong>, ...<br>
+      <strong>Z. Wang</strong>, S. Bentley, J. Li, K. Y. Wan, and A. C. H. Tsang <br>
       <em>Physical Review Letters</em> <strong>136</strong>, 078301 (2026)
     </p>
 
     <p>
-      This work shows how light-dependent adaptation can switch the circling handedness of microswimmer trajectories.
+      This work shows how beat plane reorientation can switch the circling handedness of microswimmer trajectories.
     </p>
 
     <p>
-      <a href="https://doi.org/你的DOI">Paper</a> /
-      <a href="新闻链接">News</a>
+      <a href="https://doi.org/10.1103/6cdq-1nvv">Paper</a> /
+      <a href="https://physics.aps.org/articles/v19/25">Physics Magazine focus</a> / 
+      Editor's suggestion
     </p>
   </div>
 
-  <div style="width: 320px; flex-shrink: 0;">
+  <div style="width: 300px; flex-shrink: 0;">
     <img src="{{ site.baseurl }}/images/PRL2026.jpg"
          alt="PRL handedness switching"
          style="width: 100%; height: auto;">
