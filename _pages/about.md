@@ -13,7 +13,8 @@ I obtained my Ph.D. from the University of Hong Kong in 2025, under the supervis
 
 More recently, my research has expanded toward morphogenesis and growth-induced shape transitions in multicellular algal colonies such as *Gonium*, where simple biological systems provide a tractable platform for studying the mechanics of shape formation.
 
-If you are interested in my research or have any questions, please feel free to get in touch.
+If you are interested in my research or have any questions, please feel free to get in touch. 
+zw511[AT]cam.ac.uk
 
 
 Research interests
