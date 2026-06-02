@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected publications
+<h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-bottom: 1em;">
+  Selected publications
+</h2>
 
 ### Light-dependent switching of circling handedness in microswimmer navigation  
 **Z. Wang**, ...  
@@ -35,6 +37,8 @@ This work demonstrates how light adaptation can drive oscillatory phototaxis swi
 
 ---
 
-## Full publication list
+<h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-top: 1.5em;">
+  Full publication list
+</h2>
 
 For a complete list of publications, please see my [Google Scholar profile](你的Google Scholar链接).
