@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhao Wang"
+title                    : "Zhao Wang | Biophysics, Active Matter, and Microswimmers"
 title_separator          : "-"
 name                     : &name "Zhao Wang"
-description              : &description "Zhao Wang's academic website. Research in biophysics, active matter, microswimmers, algal phototaxis, Chlamydomonas, Gonium morphogenesis, volvox, and soft matter."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Zhao Wang's academic website. Research in biophysics, active matter, microswimmers, algal phototaxis, Chlamydomonas, Gonium morphogenesis, Volvox, and soft matter."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhao-wang-biophysics.github.io/ # The base hostname & protocol for your site e.g. "https://wangzhao227.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
