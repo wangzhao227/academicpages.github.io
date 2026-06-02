@@ -40,17 +40,19 @@ author_profile: true
 
 </div>
 
-<hr>
+</div>
+
+<hr style="margin: 2em 0;">
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
-  
-    <div style="flex: 1; min-width: 0;">
+
+  <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
       Light-dependent switching of circling handedness in microswimmer navigation
     </h3>
 
     <p>
-      <strong>Z. Wang</strong>, S. Bentley, J. Li, K. Y. Wan, and A. C. H. Tsang <br>
+      <strong>Z. Wang</strong>, S. Bentley, J. Li, K. Y. Wan, and A. C. H. Tsang<br>
       <em>Physical Review Letters</em> <strong>136</strong>, 078301 (2026)
     </p>
 
@@ -60,8 +62,8 @@ author_profile: true
 
     <p>
       <a href="https://doi.org/10.1103/6cdq-1nvv">Paper</a> /
-      <a href="https://physics.aps.org/articles/v19/25">Physics Magazine focus</a> / 
-      Editor's suggestion
+      <a href="https://physics.aps.org/articles/v19/25">Physics Magazine Focus</a> /
+      Editor's Suggestion
     </p>
   </div>
 
@@ -70,8 +72,9 @@ author_profile: true
          alt="PRL handedness switching"
          style="width: 100%; height: auto;">
   </div>
-  
+
 </div>
+
 
 <h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-bottom: 1em;">
   Selected publications
