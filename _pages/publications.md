@@ -45,7 +45,7 @@ author_profile: true
 
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
-      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in <em>Chlamydomonas/em>
+      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in <em>Chlamydomonas</em>
     </h3>
 
     <p>
@@ -64,7 +64,7 @@ author_profile: true
 
   <div style="width: 300px; flex-shrink: 0;">
     <img src="{{ site.baseurl }}/images/PNAS2025.jpg"
-         alt="PRL handedness switching"
+         alt="Oscillatory phototaxis"
          style="width: 100%; height: auto;">
   </div>
 
@@ -76,26 +76,58 @@ author_profile: true
 
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
-      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in <em>Chlamydomonas/em>
+      Reinforcement learning selects multimodal locomotion strategies for bioinspired microswimmers
     </h3>
 
     <p>
-      <strong>Z. Wang</strong>, and A. C. H. Tsang<br>
-      <em>Proceedings of the National Academy of Sciences</em> 122 (24), e2425369122 (2025)
+      Y. Liu<sup>†</sup>, <strong>Z. Wang</strong><sup>†</sup>, and A. C. H. Tsang<br>
+      <em>Soft Matter</em> 21, 2363 (2025)<br>
+      <span style="font-size: 0.9em;">† These authors contributed equally.</span>
     </p>
 
     <p>
-      This work demonstrates how light adaptation can drive oscillatory phototaxis switching and collective pattern formation.
+      This work uses reinforcement learning to select adaptive locomotion strategies for bioinspired microswimmers.
     </p>
 
     <p>
-      <a href="https://doi.org/10.1073/pnas.2425369122">Paper</a>
+      <a href="https://doi.org/10.1039/D4SM01274G">Paper</a>
     </p>
   </div>
 
   <div style="width: 300px; flex-shrink: 0;">
-    <img src="{{ site.baseurl }}/images/PNAS2025.jpg"
-         alt="PRL handedness switching"
+    <img src="{{ site.baseurl }}/images/SoftMatter2025.jpg"
+         alt="Reinforcement learning strategies for bioinspired microswimmers"
+         style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+<hr style="margin: 2em 0;">
+
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
+
+  <div style="flex: 1; min-width: 0;">
+    <h3 style="margin-top: 0;">
+      Principles and applications of single particle tracking in cell research
+    </h3>
+
+    <p>
+      <strong>Z. Wang</strong><sup>†</sup>, and A. C. H. Tsang<br>
+      <em>Small</em> 17(11), 2005133 (2021)<br>
+    </p>
+
+    <p>
+      This review summarizes how single-particle tracking can reveal cellular mechanics and intracellular dynamics.
+    </p>
+
+    <p>
+      <a href="https://doi.org/10.1002/smll.202005133">Paper</a>
+    </p>
+  </div>
+
+  <div style="width: 300px; flex-shrink: 0;">
+    <img src="{{ site.baseurl }}/images/SoftMatter2025.jpg"
+         alt="Single particle tracking"
          style="width: 100%; height: auto;">
   </div>
 
@@ -107,4 +139,4 @@ author_profile: true
   Full publication list
 </h2>
 
-For a complete list of publications, please see my [Google Scholar profile](你的Google Scholar链接).
+For a complete list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=9uGyc94AAAAJ&hl=en).
