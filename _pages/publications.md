@@ -45,7 +45,38 @@ author_profile: true
 
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
-      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in *Chlamydomonas*
+      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in <em>Chlamydomonas/em>
+    </h3>
+
+    <p>
+      <strong>Z. Wang</strong>, and A. C. H. Tsang<br>
+      <em>Proceedings of the National Academy of Sciences</em> 122 (24), e2425369122 (2025)
+    </p>
+
+    <p>
+      This work demonstrates how light adaptation can drive oscillatory phototaxis switching and collective pattern formation.
+    </p>
+
+    <p>
+      <a href="https://doi.org/10.1073/pnas.2425369122">Paper</a>
+    </p>
+  </div>
+
+  <div style="width: 300px; flex-shrink: 0;">
+    <img src="{{ site.baseurl }}/images/PNAS2025.jpg"
+         alt="PRL handedness switching"
+         style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+<hr style="margin: 2em 0;">
+
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
+
+  <div style="flex: 1; min-width: 0;">
+    <h3 style="margin-top: 0;">
+      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in <em>Chlamydomonas/em>
     </h3>
 
     <p>
