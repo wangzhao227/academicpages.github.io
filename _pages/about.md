@@ -7,19 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a Postdoctoral Research Associate at the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, working with Professor Raymond E. Goldstein FRS. 
+I’m a Postdoctoral Research Associate at the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, working with Professor Raymond E. Goldstein FRS. 
 
-I received my Ph.D. in Mechanical Engineering from the University of Hong Kong (HKU) in 2025 under the supervision of Prof. Alan C. H. Tsang, following my M.Sc. from the Harbin Institute of Technology (HIT) in 2021.
+During my doctoral research, I studied the swimming, navigation, and collective dynamics of biological microswimmers, with a particular focus on algal motility and phototaxis in Chlamydomonas and Volvox. 
 
-My main research interests lie at the intersection of biophysics and biofluid mechanics. I combine theoretical and experimental approaches to understand non-equilibrium phenomena in nature. My work revolves around exploring fundamental questions, such as:
+More recently, my research has expanded toward morphogenesis and growth-induced shape transitions in multicellular algal colonies such as Gonium, where simple biological systems provide a tractable platform for studying the mechanics of shape formation.
 
-*   How do microorganisms adapt their behavior and navigation strategies in response to environmental cues?
-*   How do multicellular organisms coordinate individual actions to achieve collective navigation?
-*   How do cells robustly construct their external architectures?
+If you are interested in my research or have any questions, please feel free to email me.
 
-If my research resonates with you and you'd like to discuss it further, please don't hesitate to email me.
-
-Representative publications in recent two years
+Representative publications
 ------
 
 *  **Z. Wang**, S.A. Bentley, J. Li, K.Y. Wan, A.C.H. Tsang, *Physical Review Letters*, in press (2026)
