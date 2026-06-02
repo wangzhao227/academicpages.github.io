@@ -126,7 +126,7 @@ author_profile: true
   </div>
 
   <div style="width: 300px; flex-shrink: 0;">
-    <img src="{{ site.baseurl }}/images/SoftMatter2025.jpg"
+    <img src="{{ site.baseurl }}/images/Small2021.jpg"
          alt="Single particle tracking"
          style="width: 100%; height: auto;">
   </div>
