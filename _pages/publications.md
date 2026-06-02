@@ -31,7 +31,7 @@ author_profile: true
     </p>
   </div>
 
-  <div style="width: 320px; flex-shrink: 0;">
+  <div style="width: 520px; flex-shrink: 0;">
     <img src="{{ site.baseurl }}/images/PRL2026.jpg"
          alt="PRL handedness switching"
          style="width: 100%; height: auto;">
