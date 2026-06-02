@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -59,7 +58,7 @@ author_profile: true
     </p>
 
     <p>
-      <a href="https://doi.org/10.1073/pnas.2425369122">Paper</a> /
+      <a href="https://doi.org/10.1073/pnas.2425369122">Paper</a>
     </p>
   </div>
 
