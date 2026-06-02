@@ -38,9 +38,9 @@ author_profile: true
          style="width: 100%; height: auto;">
   </div>
 
+</div>
 
-
-
+<hr>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
   
@@ -71,7 +71,6 @@ author_profile: true
          style="width: 100%; height: auto;">
   </div>
   
-
 </div>
 
 <h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-bottom: 1em;">
