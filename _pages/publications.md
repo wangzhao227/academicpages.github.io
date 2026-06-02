@@ -9,7 +9,7 @@ author_profile: true
   Selected publications
 </h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2.5em;">
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
 
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
@@ -31,7 +31,7 @@ author_profile: true
     </p>
   </div>
 
-  <div style="width: 280px; flex-shrink: 0;">
+  <div style="width: 320px; flex-shrink: 0;">
     <img src="{{ site.baseurl }}/images/PRL2026.jpg"
          alt="PRL handedness switching"
          style="width: 100%; height: auto;">
