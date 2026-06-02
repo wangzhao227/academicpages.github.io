@@ -1,14 +1,20 @@
 ---
-layout: archive
-title: ""
+layout: single
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<div class="publication-item">
+<h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700;">
+  Selected publications
+</h2>
 
-  <div class="publication-text">
-    <h3>Light-dependent switching of circling handedness in microswimmer navigation</h3>
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 2.5em;">
+
+  <div style="flex: 1; min-width: 0;">
+    <h3 style="margin-top: 0;">
+      Light-dependent switching of circling handedness in microswimmer navigation
+    </h3>
 
     <p>
       <strong>Z. Wang</strong>, ...<br>
@@ -25,12 +31,13 @@ author_profile: true
     </p>
   </div>
 
-  <div class="publication-image">
-    <img src="/images/PRL2026.jpg" alt="PRL handedness switching" width="450">
+  <div style="width: 280px; flex-shrink: 0;">
+    <img src="{{ site.baseurl }}/images/PRL2026.jpg"
+         alt="PRL handedness switching"
+         style="width: 100%; height: auto;">
   </div>
 
 </div>
-
 
 <h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-bottom: 1em;">
   Selected publications
