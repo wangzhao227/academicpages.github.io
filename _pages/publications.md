@@ -14,12 +14,12 @@ author_profile: true
 *Physical Review Letters* 136, 078301 (2026)
 
 <p align="center">
-  <img src="/images/PRL2026.jpg" alt="PRL handedness switching" width="650">
+  <img src="/images/PRL2026.jpg" alt="PRL handedness switching" width="450">
 </p>
 
 This work shows how beat plane reorientation can switch the circling handedness of microswimmer trajectories.
 
-[Paper](https://doi.org/10.1103/6cdq-1nvv) / Highlighted in [Physics Magazine focus](https://physics.aps.org/articles/v19/25) / Editor's suggestion
+[PDF](https://doi.org/10.1103/6cdq-1nvv) / Highlighted in [Physics Magazine focus](https://physics.aps.org/articles/v19/25) / Editor's suggestion
 
 ---
 
@@ -28,12 +28,12 @@ This work shows how beat plane reorientation can switch the circling handedness 
 *Proceedings of the National Academy of Sciences* (2025)
 
 <p align="center">
-  <img src="/images/PNAS2025.jpg" alt="PNAS phototaxis switching" width="650">
+  <img src="/images/PNAS2025.jpg" alt="PNAS phototaxis switching" width="450">
 </p>
 
 This work demonstrates how light adaptation can drive oscillatory phototaxis switching and collective pattern formation.
 
-[Paper](https://doi.org/10.1073/pnas.2425369122)
+[PDF](https://doi.org/10.1073/pnas.2425369122)
 
 ---
 
