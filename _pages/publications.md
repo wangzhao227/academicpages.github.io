@@ -5,6 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class="publication-item">
+
+  <div class="publication-text">
+    <h3>Light-dependent switching of circling handedness in microswimmer navigation</h3>
+
+    <p>
+      <strong>Z. Wang</strong>, ...<br>
+      <em>Physical Review Letters</em> <strong>136</strong>, 078301 (2026)
+    </p>
+
+    <p>
+      This work shows how light-dependent adaptation can switch the circling handedness of microswimmer trajectories.
+    </p>
+
+    <p>
+      <a href="https://doi.org/你的DOI">Paper</a> /
+      <a href="新闻链接">News</a>
+    </p>
+  </div>
+
+  <div class="publication-image">
+    <img src="{{ site.baseurl }}/images/publications/PRL2026.jpg" alt="PRL handedness switching">
+  </div>
+
+</div>
+
+
 <h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-bottom: 1em;">
   Selected publications
 </h2>
