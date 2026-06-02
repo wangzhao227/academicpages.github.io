@@ -18,7 +18,7 @@ author_profile: true
 
     <p>
       <strong>Z. Wang</strong>, S. Bentley, J. Li, K. Y. Wan, and A. C. H. Tsang <br>
-      <em>Physical Review Letters</em> <strong>136</strong>, 078301 (2026)
+      <em>Physical Review Letters</em> 136, 078301 (2026)
     </p>
 
     <p>
@@ -46,63 +46,30 @@ author_profile: true
 
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;">
-      Light-dependent switching of circling handedness in microswimmer navigation
+      Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in *Chlamydomonas*
     </h3>
 
     <p>
-      <strong>Z. Wang</strong>, S. Bentley, J. Li, K. Y. Wan, and A. C. H. Tsang<br>
-      <em>Physical Review Letters</em> <strong>136</strong>, 078301 (2026)
+      <strong>Z. Wang</strong>, and A. C. H. Tsang<br>
+      <em>Proceedings of the National Academy of Sciences</em> 122 (24), e2425369122 (2025)
     </p>
 
     <p>
-      This work shows how beat plane reorientation can switch the circling handedness of microswimmer trajectories.
+      This work demonstrates how light adaptation can drive oscillatory phototaxis switching and collective pattern formation.
     </p>
 
     <p>
-      <a href="https://doi.org/10.1103/6cdq-1nvv">Paper</a> /
-      <a href="https://physics.aps.org/articles/v19/25">Physics Magazine Focus</a> /
-      Editor's Suggestion
+      <a href="https://doi.org/10.1073/pnas.2425369122">Paper</a> /
     </p>
   </div>
 
   <div style="width: 300px; flex-shrink: 0;">
-    <img src="{{ site.baseurl }}/images/PRL2026.jpg"
+    <img src="{{ site.baseurl }}/images/PNAS2025.jpg"
          alt="PRL handedness switching"
          style="width: 100%; height: auto;">
   </div>
 
 </div>
-
-
-<h2 style="font-size: 1.5em; color: #1f4e79; font-weight: 700; margin-bottom: 1em;">
-  Selected publications
-</h2>
-
-### Light-dependent switching of circling handedness in microswimmer navigation  
-**Z. Wang**, S. Bentley, J. Li, K. Y. Wan, and A. C. H. Tsang
-*Physical Review Letters* 136, 078301 (2026)
-
-<p align="center">
-  <img src="/images/PRL2026.jpg" alt="PRL handedness switching" width="450">
-</p>
-
-This work shows how beat plane reorientation can switch the circling handedness of microswimmer trajectories.
-
-[PDF](https://doi.org/10.1103/6cdq-1nvv) / Highlighted in [Physics Magazine focus](https://physics.aps.org/articles/v19/25) / Editor's suggestion
-
----
-
-### Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in *Chlamydomonas*  
-**Z. Wang**, and A. C. H. Tsang
-*Proceedings of the National Academy of Sciences* (2025)
-
-<p align="center">
-  <img src="/images/PNAS2025.jpg" alt="PNAS phototaxis switching" width="450">
-</p>
-
-This work demonstrates how light adaptation can drive oscillatory phototaxis switching and collective pattern formation.
-
-[PDF](https://doi.org/10.1073/pnas.2425369122)
 
 ---
 
