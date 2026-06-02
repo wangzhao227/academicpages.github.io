@@ -26,7 +26,7 @@ author_profile: true
   </div>
 
   <div class="publication-image">
-    <img src="{{ site.baseurl }}/images/publications/PRL2026.jpg" alt="PRL handedness switching">
+    <img src="/images/PRL2026.jpg" alt="PRL handedness switching" width="450">
   </div>
 
 </div>
