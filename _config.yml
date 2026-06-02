@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhao Wang | Biophysics, Active Matter, and Microswimmers"
+title                    : "Zhao Wang"
 title_separator          : "-"
 name                     : &name "Zhao Wang"
 description              : &description "Zhao Wang's academic website. Research in biophysics, active matter, microswimmers, algal phototaxis, Chlamydomonas, Gonium morphogenesis, Volvox, and soft matter."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "zhao-wang-biophysics/zhao-wang-biophysics.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhaowang5.jpg"
+  avatar           : "zhaowang.jpg"
   name             : "Zhao Wang (王钊)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in biological physics and active matter"
