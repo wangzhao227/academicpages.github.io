@@ -112,7 +112,7 @@ author_profile: true
     </h3>
 
     <p>
-      <strong>Z. Wang</strong><sup>†</sup>, and A. C. H. Tsang<br>
+      <strong>Z. Wang</strong>, X. Wang, Y. Zhang, W. Xu, and X. Han<br>
       <em>Small</em> 17(11), 2005133 (2021)<br>
     </p>
 
